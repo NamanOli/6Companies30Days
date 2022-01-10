@@ -1,4 +1,5 @@
 // https://practice.geeksforgeeks.org/problems/burning-tree/1/
+// https://www.youtube.com/watch?v=dtBj2A_7JOk
 
 // { Driver Code Starts
 //Initial Template for C++
